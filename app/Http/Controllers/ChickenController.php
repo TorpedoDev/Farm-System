@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\DataTables\ChickenDataTable;
-use App\Models\chicken;
+use App\Models\Chicken;
 use Illuminate\Http\Request;
 
 class ChickenController extends Controller

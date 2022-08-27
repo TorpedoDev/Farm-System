@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\DataTables\MedicineDataTable;
-use App\Models\medicine;
+use App\Models\Medicine;
 use Illuminate\Http\Request;
 
 class MedicineController extends Controller

@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\DataTables\EggDataTable;
-use App\Models\eggsales;
+use App\Models\Eggsales;
 use Illuminate\Http\Request;
 
 class EggController extends Controller

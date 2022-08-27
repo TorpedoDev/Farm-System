@@ -4,12 +4,12 @@ namespace App\Http\Controllers;
 
 use App\Models\Additionalexpenses;
 use App\Models\Dock;
-use App\Models\feed;
-use App\Models\cartoon;
-use App\Models\chicken;
-use App\Models\eggsales;
-use App\Models\medicine;
-use App\Models\chickensales;
+use App\Models\Feed;
+use App\Models\Cartoon;
+use App\Models\Chicken;
+use App\Models\Eggsales;
+use App\Models\Medicine;
+use App\Models\Chickensales;
 use App\Models\Deadchicken;
 use App\Models\Worker;
 use Illuminate\Http\Request;

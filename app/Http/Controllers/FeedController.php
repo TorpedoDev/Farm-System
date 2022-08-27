@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\DataTables\FeedDataTable;
-use App\Models\feed;
+use App\Models\Feed;
 use Illuminate\Http\Request;
 
 class FeedController extends Controller

@@ -3,7 +3,7 @@
 namespace App\DataTables;
 
 use App\Models\Egg;
-use App\Models\eggsales;
+use App\Models\Eggsales;
 use Yajra\DataTables\Html\Button;
 use Yajra\DataTables\Html\Column;
 use Yajra\DataTables\Html\Editor\Editor;

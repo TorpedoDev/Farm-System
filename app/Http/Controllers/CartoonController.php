@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\DataTables\CartoonDataTable;
-use App\Models\cartoon;
+use App\Models\Cartoon;
 use Illuminate\Http\Request;
 
 class CartoonController extends Controller

@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 
 use App\DataTables\ChickensalesDataTable;
-use App\Models\chickensales;
+use App\Models\Chickensales;
 use Illuminate\Http\Request;
 
 class CheckensalesController extends Controller
