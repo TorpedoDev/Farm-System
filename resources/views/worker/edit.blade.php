@@ -18,7 +18,7 @@
                                     <i data-feather="home"></i>
                                 </a>
                             </li>
-                            <li class="breadcrumb-item"><a href="{{ route('deadchicken.index') }}">@lang('hometr.show all worker salary')</a></li>
+                            <li class="breadcrumb-item"><a href="{{ route('workersalary.index') }}">@lang('hometr.show all worker salary')</a></li>
                             <li class="breadcrumb-item active">@lang('hometr.Edit worker salalry')</li>
                         </ol>
                     </div>

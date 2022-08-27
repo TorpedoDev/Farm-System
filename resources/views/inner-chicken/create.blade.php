@@ -18,7 +18,7 @@
                                     <i data-feather="home"></i>
                                 </a>
                             </li>
-                            <li class="breadcrumb-item"><a href="{{ route('chicken.index') }}">@lang('hometr.Show chickens')</a></li>
+                            <li class="breadcrumb-item"><a href="{{ route('chicken.index') }}">@lang('hometr.Show chicken')</a></li>
                             <li class="breadcrumb-item active">@lang('hometr.Enter chicken')</li>
                         </ol>
                     </div>

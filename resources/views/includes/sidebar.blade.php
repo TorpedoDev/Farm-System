@@ -2,7 +2,7 @@
     <div class="main-header-left d-none d-lg-block">
         <div class="logo-wrapper">
             <div style="color: #20b8bf; font-weight:bold">
-                {{ env('Farm_NAME', 'Laravel') }}
+                {{ env('APP_NAME', 'Laravel') }}
             </div>
         </div>
     </div>

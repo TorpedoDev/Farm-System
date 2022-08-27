@@ -19,7 +19,7 @@
                                 </a>
                             </li>
                             <li class="breadcrumb-item"><a href="{{ route('feed.index') }}">@lang('hometr.Show feed')</a></li>
-                            <li class="breadcrumb-item active">@lang('hometr.Edit feed ')</li>
+                            <li class="breadcrumb-item active">@lang('hometr.Edit feed')</li>
                         </ol>
                     </div>
                 </div>

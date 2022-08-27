@@ -19,7 +19,7 @@
                                 </a>
                             </li>
                             <li class="breadcrumb-item"><a href="{{ route('deadchicken.index') }}">@lang('hometr.show dead chicken')</a></li>
-                            <li class="breadcrumb-item active">@lang('hometr.Edit dead chicken ')</li>
+                            <li class="breadcrumb-item active">@lang('hometr.Edit dead chicken')</li>
                         </ol>
                     </div>
                 </div>

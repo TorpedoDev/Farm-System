@@ -63,7 +63,7 @@
                     <ul class="profile-dropdown onhover-show-div p-20 profile-dropdown-hover">
                         <li>
                             <a href="{{route('profiles.index')}}">
-                                <i data-feather="user"></i> Edit Profile
+                                <i data-feather="user"></i> @lang('hometr.edit profile')
                             </a>
                         </li>
                         {{-- <li>
@@ -76,7 +76,7 @@
                                 @csrf
                             </form>
                             <a onclick="document.getElementById('logout').submit()" href="javascript:void(0)">
-                                <i data-feather="log-out"></i>Logout
+                                <i data-feather="log-out"></i>@lang('hometr.Logout')
                             </a>
                         </li>
                     </ul>

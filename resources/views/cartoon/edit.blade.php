@@ -18,8 +18,8 @@
                                     <i data-feather="home"></i>
                                 </a>
                             </li>
-                            <li class="breadcrumb-item"><a href="{{ route('feed.index') }}">@lang('hometr.Show cartoon')</a></li>
-                            <li class="breadcrumb-item active">@lang('hometr.Edit cartoon ')</li>
+                            <li class="breadcrumb-item"><a href="{{ route('cartoon.index') }}">@lang('hometr.Show cartoon')</a></li>
+                            <li class="breadcrumb-item active">@lang('hometr.Edit cartoon')</li>
                         </ol>
                     </div>
                 </div>
