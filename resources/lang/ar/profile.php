@@ -10,12 +10,10 @@ return [
     'User password' => 'كلمه المرور',
     'Save changes' => 'حفظ التعديلات',
     'User has been edited successfully' => 'تم تعديل المستخدم بنجاح',
-
     'Edit password' => 'تعديل كلمة المرور',
     'User old password' => 'كلمه المرور القديمه',
     'User new password' => 'كلمه المرور الجديدة',
     'User confirm new password' => 'تأكيد كلمه المرور الجديدة',
     'User password has been edited successfully' => 'تم تعديل كلمة المرور بنجاح',
-    'asdasd' => '',
-    'asdasd' => '',
+   
 ];

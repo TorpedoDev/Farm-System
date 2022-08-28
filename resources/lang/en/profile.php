@@ -10,6 +10,9 @@ return [
     'User password' => 'User password',
     'Save changes' => 'Save changes',
     'User has been edited successfully' => 'User has been edited successfully',
-    'asdasd' => '',
-    'asdasd' => '',
+    'Edit password' => 'Edit password',
+    'User old password' => 'Old password',
+    'User new password' => 'New password',
+    'User confirm new password' => 'Confirm new password',
+    'User password has been edited successfully' => 'Password has been edited successfully',
 ];

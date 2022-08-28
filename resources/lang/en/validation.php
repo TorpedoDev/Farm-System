@@ -166,25 +166,19 @@ return [
         'email'                 => 'email',
         'first_name'            => 'first name',
         'last_name'             => 'last name',
-
-        'quantity'             => 'quantity',
-        'quantity.*'             => 'quantity',
-        'kilo_price'             => 'kilo price',
-        'kilo_price.*'             => 'kilo price',
-
-        'note'             => 'notes',
-        'paid'             => 'paid',
-        'phone' => 'phone number',
-
-
-        'password'             => 'password',
-
-        'newpassword'             => 'new password',
-
-        'confirm-password'             => 'confirm password',
-        'salary'                       => 'Salary',
-        'weights'   => 'Weights',
-        'number' => 'Number',
+        'quantity'              => 'quantity',
+        'quantity.*'            => 'quantity',
+        'kilo_price'            => 'kilo price',
+        'kilo_price.*'          => 'kilo price',
+        'note'                  => 'notes',
+        'paid'                  => 'paid',
+        'phone'                 => 'phone number',
+        'password'              => 'password',
+        'newpassword'           => 'new password',
+        'confirm-password'      => 'confirm password',
+        'salary'                => 'Salary',
+        'weights'               => 'Weights',
+        'number'                => 'Number',
     ],
 
 ];
