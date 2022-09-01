@@ -55,7 +55,9 @@ class ChickenDataTable extends DataTable
                         Button::make('create'),
                         Button::make('export'),
                         Button::make('print'),
-                        Button::make('reload')
+                        Button::make('reload'),
+                        Button::make('pageLength')
+
                     );
     }
 

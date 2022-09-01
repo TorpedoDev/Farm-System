@@ -55,7 +55,9 @@ class CartoonDataTable extends DataTable
                         Button::make('create'),
                         Button::make('export'),
                         Button::make('print'),
-                        Button::make('reload')
+                        Button::make('reload'),
+                        Button::make('pageLength')
+
                     );
     }
 
@@ -75,7 +77,7 @@ class CartoonDataTable extends DataTable
             Column::computed('action')
             ->exportable(false)
             ->printable(false)
-            ->width(60)
+            ->width(80)
             ->addClass('text-center')
             ->title(__('hometr.Options')),
         ];
