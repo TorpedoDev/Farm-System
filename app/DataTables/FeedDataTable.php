@@ -77,7 +77,7 @@ class FeedDataTable extends DataTable
             Column::computed('action')
             ->exportable(false)
             ->printable(false)
-            ->width(120)
+            ->width(180)
             ->addClass('text-center')
             ->title(__('hometr.Options')),
         ];
